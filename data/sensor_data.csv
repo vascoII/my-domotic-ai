@@ -1,0 +1,5 @@
+temperature	humidity	co2	action
+25.5	60	800	1
+19.0	45	400	0
+28.0	65	1000	1
+17.5	50	1200	2
